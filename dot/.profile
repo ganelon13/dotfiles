@@ -23,3 +23,4 @@ fi
 
 export PATH=$PATH:/usr/local/go/bin
 ssh-add ~/.ssh/github_hp
+ssh-add ~/.ssh/bitbucket_hp
